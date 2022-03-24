@@ -1,0 +1,12 @@
+{
+    "type": "mssql",
+    "host": "100.127.255.249",
+    "port": 1433,
+    "username": "",
+    "password": "",
+    "database": "",
+    "entities": []
+
+
+
+}
